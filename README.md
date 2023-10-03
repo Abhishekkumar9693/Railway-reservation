@@ -1,7 +1,7 @@
 # Railway-reservation
 
-Book, cancel and query ticket reservation using the following application.
-<br>Check previous bookings too.
+It incorporates features like Book 􀆟ckets, Cancel Ticket, Check PNR, Create Account, Check previous Booking
+enhancing the overall railway reserva􀆟on experience.
 
 
 #To use, just run the python script
